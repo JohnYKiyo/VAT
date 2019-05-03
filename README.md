@@ -5,4 +5,4 @@ https://arxiv.org/abs/1704.03976
 
 ## 
 
-[![Simple Training](Noraml.gif)]
+![Simple Training](./Noraml.gif)
