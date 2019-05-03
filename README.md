@@ -5,5 +5,5 @@ https://arxiv.org/abs/1704.03976
 
 ## 
 
-![Simple Training](Noraml.gif)
+![Simple Training](Normal.gif)
 ![Virtual Adversarial Training](VAT_train.gif)
