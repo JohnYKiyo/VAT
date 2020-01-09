@@ -12,6 +12,7 @@ Method:
 def forward(self, model, x):   
   return value is KL-div between normal inputs (x) and perturbed inputs (x+r).
 
+**Paper:**
 * Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning - 
 https://arxiv.org/abs/1704.03976
 
